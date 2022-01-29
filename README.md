@@ -15,4 +15,4 @@ npx hardhat run scripts/deploy.ts
 `Note`
 
 - Private key should be in the `.env` file with variable name `CFX_PRIV`= _{YOUR_PRIVATE_KEY}_ make sure it is prefixed with `0x`
-- Deployed Token- https://testnet.confluxscan.io/address/cfxtest:acd7jnutafn9nv53gvh5cdk9yayct94yzjrcpjvwgk
+- Deployed Token- https://testnet.confluxscan.io/token/cfxtest:acd1hfvt55dehycpawtnpv4w3esn1c38upxkc1n2ku
